@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DetectorApp</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="image_uploaded_prefix">Image uploaded: </string>
+</resources>
