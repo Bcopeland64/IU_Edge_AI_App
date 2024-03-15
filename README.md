@@ -1,7 +1,7 @@
 # IU_Edge_AI_App DetectorApp
 
 ## Description
-DetectorApp is an Android application that allows users to upload images and process them using TensorFlow Lite models for detection purposes.
+DetectorApp is an Android application that allows users to upload images and process them using TensorFlow Lite models for detection of age, gender, and emotion.
 
 ## Features
 - Choose an image from the device's gallery for processing.
